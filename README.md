@@ -23,7 +23,7 @@ I am a passionate B.Electrical Engineering with a concentration in Telecommunica
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://www.youtube.com/@bangdhong)
+- Connect with me on [Youtube](https://www.youtube.com/@bangdhong)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
