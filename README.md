@@ -7,16 +7,6 @@ I am a passionate B.Electrical Engineering with a concentration in Telecommunica
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor’s degree in Electrical Engineering with a concentration in Telecommunications at Tanjungpura University.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -29,13 +19,11 @@ I am a passionate B.Electrical Engineering with a concentration in Telecommunica
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Youtube]([https://www.youtube.com/@bangdhong])
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
